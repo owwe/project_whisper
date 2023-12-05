@@ -7,3 +7,5 @@ evaluate
 jiwer 
 tensorboard 
 gradio
+huggingface_hub
+soundfile
